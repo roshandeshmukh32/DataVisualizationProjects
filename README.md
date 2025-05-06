@@ -1,1 +1,2 @@
 # DataVisualizationProjects
+Welcome to DataVisualizationProjects — a collection of interactive and insightful data visualization projects built using a range of tools and libraries including Tableau, and Power BI. This repository is designed to showcase the power of visual storytelling with data and is ideal for data enthusiasts, analysts, and developers interested in exploring various visualization techniques.
